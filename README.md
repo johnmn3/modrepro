@@ -11,7 +11,8 @@ Open the developer console.
 
 You should see the error:
 
-```core.cljs:6 Uncaught TypeError: Cannot read property 'instrument_btn' of undefined
+```
+core.cljs:6 Uncaught TypeError: Cannot read property 'instrument_btn' of undefined
     at core.cljs:6
 (anonymous) @ core.cljs:6
 ```
