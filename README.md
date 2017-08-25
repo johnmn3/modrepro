@@ -1,8 +1,11 @@
 # modrepro
 
 In a terminal, run the following lines:
+
 `git clone https://github.com/johnmn3/modrepro.git`
+
 `cd modrepro`
+
 `rlwrap java -cp cljs.jar:src clojure.main repl.clj`
 
 Open a browser at http://localhost:9000/
